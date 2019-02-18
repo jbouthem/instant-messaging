@@ -1,0 +1,20 @@
+/* CSS declarations go here */
+
+.user_avatar{
+	min-height:100px;
+	text-align: center;
+}
+
+.avatar_img{
+	height:75px;
+}
+
+.avatar_little_img{
+	max-height: 20px;
+	width: auto;
+}
+
+img.emoji {
+	max-height: 20px;
+	width: auto;
+}
